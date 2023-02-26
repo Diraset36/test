@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<complexes>
+  <complex>
+    <id>12345</id>
+    <name>ЖК "Ромашка"</name>
+    <latitude>12.3456</latitude>
+    <longitude>12.3456</longitude>
+    <address>проспект Мира дом 1</address>
+    <images>
+      <image>image.url.ru</image>
+      <image>image.url.ru</image>
+      <image>image.url.ru</image>
+    </images>
+    <buildings>
+      <building>
+        <id>98765</id>
+        <fz_214>1</fz_214>
+        <name>Корпус 1</name>
+        <floors>20</floors>
+        <floors_ready>10</floors_ready>
+        <building_state>built</building_state>
+        <built_year>2020</built_year>
+        <ready_quarter>3</ready_quarter>
+        <building_phase>2</building_phase>
+        <building_type>монолитный</building_type>
+        <image>img.url.com</image>
+        <flats>
+          <flat>
+            <flat_id>123412</flat_id>
+            <apartment>56</apartment>
+            <floor>11</floor>
+            <room>3</room>
+            <plan>url.ing.org</plan>
+            <balcony>Больше 2</balcony>
+            <renovation>Нет</renovation>
+            <price>1000000</price>
+            <area>100</area>
+            <kitchen_area>20</kitchen_area>
+            <living_area>60</living_area>
+            <rooms_area>
+              <area>20</area>
+              <area>30</area>
+              <area>10</area>
+            </rooms_area>
+            <window_view>Во двор и на улицу</window_view>
+            <bathroom>Более 2</bathroom>
+          </flat>
+          <flat>
+            <flat_id>4873133</flat_id>
+            <apartment>21</apartment>
+            <floor>5</floor>
+            <room>2</room>
+            <plan>url.ing.org</plan>
+            <balcony>Балкон</balcony>
+            <renovation>Нет</renovation>
+            <price>600000</price>
+            <area>40</area>
+            <kitchen_area>10</kitchen_area>
+            <living_area>20</living_area>
+            <rooms_area>
+              <area>20</area>
+            </rooms_area>
+            <window_view>Во двор</window_view>
+            <bathroom>Раздельный</bathroom>
+          </flat>
+        </flats>
+      </building>
+      <building>
+        <id>47123</id>
+        <fz_214>0</fz_214>
+        <name>Корпус 2</name>
+        <floors>18</floors>
+        <floors_ready>2</floors_ready>
+        <building_state>built</building_state>
+        <built_year>2018</built_year>
+        <ready_quarter>1</ready_quarter>
+        <building_phase>3</building_phase>
+        <building_type>кирпичный</building_type>
+        <image>img.url.com</image>
+        <flats>
+          <flat>
+            <flat_id>9133</flat_id>
+            <apartment>33</apartment>
+            <floor>8</floor>
+            <room>3</room>
+            <plan>url.ing.org</plan>
+            <balcony>Больше 2</balcony>
+            <renovation>Нет</renovation>
+            <price>1000000</price>
+            <area>100</area>
+            <kitchen_area>20</kitchen_area>
+            <living_area>60</living_area>
+            <rooms_area>
+              <area>20</area>
+              <area>30</area>
+              <area>10</area>
+            </rooms_area>
+            <window_view>Во двор и на улицу</window_view>
+            <bathroom>Более 2</bathroom>
+          </flat>
+          <flat>
+            <flat_id>9132</flat_id>
+            <apartment>35</apartment>
+            <floor>8</floor>
+            <room>3</room>
+            <plan>url.ing.org</plan>
+            <balcony>Больше 2</balcony>
+            <renovation>Нет</renovation>
+            <price>1000000</price>
+            <area>100</area>
+            <kitchen_area>20</kitchen_area>
+            <living_area>60</living_area>
+            <rooms_area>
+              <area>20</area>
+              <area>30</area>
+              <area>10</area>
+            </rooms_area>
+            <window_view>Во двор и на улицу</window_view>
+            <bathroom>Более 2</bathroom>
+          </flat>
+        </flats>
+      </building>
+    </buildings>
+    <discounts>
+      <discount>
+        <name>Холодильник в подарок</name>
+        <description>Каждому второму дарим в подарок отличный холодильник!</description>
+        <image>url.img.ru</image>
+        <site>zastroischik.ru</site>
+      </discount>
+    </discounts>
+    <description_main>
+      <title>Самый комфортный ЖК!</title>
+      <text>У нашего ЖК самое удобное расположение. Самые удобные квартиры и вообще он самый классный!</text>
+    </description_main>
+    <description_secondary>
+      <title>Самый надежный!</title>
+      <text>Ещё наш ЖК самый надёжный и его дизайн разрабатывал самый известный архитектор!</text>
+    </description_secondary>
+    <infrastructure>
+      <parking>Наземная</parking>
+      <security>1</security>
+      <fenced_area>1</fenced_area>
+      <sports_ground>1</sports_ground>
+      <playground>1</playground>
+      <school>1</school>
+      <kindergarten>0</kindergarten>
+    </infrastructure>
+    <videos>
+      <video>
+        <type>youtube</type>
+        <url>youtube.com/123123</url>
+      </video>
+      <video>
+        <type>realtime</type>
+        <url>realtime.com/123123</url>
+      </video>
+    </videos>
+    <profits_main>
+      <profit_main>
+        <title>Wi-fi во дворе!</title>
+        <text>В нашем дворе бесплатный вай фай!</text>
+        <image>url.img.ru</image>
+      </profit_main>
+      <profit_main>
+        <title>Бассейн на крыше</title>
+        <text>На крыше есть открытый бассейн с горками!</text>
+        <image>url.img.ru</image>
+      </profit_main>
+    </profits_main>
+    <profits_secondary>
+      <profit_secondary>
+        <title>Красивое освещение подъездов</title>
+        <text>В наших подъездах есть разноцветные лампы</text>
+        <image>url.img.ru</image>
+      </profit_secondary>
+    </profits_secondary>
+    <sales_info>
+      <sales_phone>+74951234567&gt;</sales_phone>
+      <responsible_officer_phone>+79998887766</responsible_officer_phone>
+      <sales_address>Рядом с ЖК. Проспект мира 12</sales_address>
+      <sales_latitude>56.12345</sales_latitude>
+      <sales_longitude>34.12345</sales_longitude>
+      <timezone>+2</timezone>
+      <work_days>
+        <work_day>
+          <day>пн</day>
+          <open_at>09:00</open_at>
+          <close_at>21:00</close_at>
+        </work_day>
+        <work_day>
+          <day>ср</day>
+          <open_at>10:00</open_at>
+          <close_at>21:00</close_at>
+        </work_day>
+        <work_day>
+          <day>чт</day>
+          <open_at>09:00</open_at>
+          <close_at>20:00</close_at>
+        </work_day>
+      </work_days>
+    </sales_info>
+    <developer>
+      <id>1</id>
+      <name>Застройщик</name>
+      <phone>+74956789999</phone>
+      <site>zastroischik.ru</site>
+      <logo>img.url.ru</logo>
+    </developer>
+  </complex>
+</complexes>
